@@ -24,13 +24,3 @@ function fnBtn() {
     elInp3.value = ""
 }
 
-// for (var i of data) {
-//     var newLi = document.createElement("li")
-//     newLi.innerHTML = `
-//             <img src="${i.img}" alt=${i.model}>
-//             <h2>${i.model}</h2>
-//             <p>$${i.price}</p>
-//             <mark>${i.ssd}</mark>
-//             <span style="background-color: ${i.color};"></span>`
-//             elList.appendChild(newLi)
-// }
